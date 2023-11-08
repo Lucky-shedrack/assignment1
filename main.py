@@ -1,4 +1,4 @@
-#########  mr. usuf
+
 
 print("MR.YUSUF AND SONS ")
 print("To calculate simple intrest and compound intrest, enter the required details.")
